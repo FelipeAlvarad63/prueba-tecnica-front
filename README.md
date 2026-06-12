@@ -1,0 +1,1 @@
+Realice la petición a la api, obtuve los productos, cree el componente ProductCard. Pero tuve un bloqueo al actualizar el estado y no me dio el tiempo para corregirlo. Si hubiese tenido 30 min más hubiera debuggueado el un poco más revisando la documentación, al resolver esto habria avanzado más ya que lo siguiente eran más ajustes visuales.
